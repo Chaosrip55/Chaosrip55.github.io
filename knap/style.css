@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+.main{
+    background-color: beige;
+    width: 200px;
+}
+p{
+    padding: 40px;
+}
+button{
+    width: 60px;
+    padding-top: 10px;
+}
